@@ -143,6 +143,7 @@ struct node* polyaddition(struct node* p1thead,struct node* p2thead)
         t2=t2->next;
     }
     return ans;
+
 }
 
 void display(struct node* thead)
